@@ -5,7 +5,7 @@
 I'm Kübra, a new graduate Software Developer. 🚀</div>  
   
 
-- ⚡ I’m currently Golang  
+- ⚡ I’m currently learning Golang  
   
 
 <br/>  
