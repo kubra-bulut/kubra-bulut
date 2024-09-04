@@ -69,7 +69,7 @@ I'm Kübra, a new graduate Software Developer. 🚀</div>
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://profile-counter.glitch.me/kubra-bulut/count.svg&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://komarev.com/ghpvc/?username=kubra-bulut&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <br/>  
 
 
