@@ -48,13 +48,11 @@
 </a>  
 </div>  
 <br/>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kubra-bulut&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&hide_border=true&layout=compact" align="left" />  
-<img src="https://profile-counter.glitch.me/kubra-bulut/count.svg" align="left" />
-<br/>  
+---
+[![](https://visitcount.itsvg.in/api?id=kubra-bulut&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=kubra-bulut&&style=flat-square" align="right" />
-</div>  
-<br/>  
