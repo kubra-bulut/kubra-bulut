@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="200"/>
     </td>
   </tr>
 </table>
