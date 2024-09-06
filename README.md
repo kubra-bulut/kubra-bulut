@@ -49,11 +49,23 @@
 </div>  
 <br/>  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kubra-bulut&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubra-bulut&theme=dark&hide_border=false" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubra-bulut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kubra-bulut&icon=7&color=11)](https://visitcount.itsvg.in)
-
