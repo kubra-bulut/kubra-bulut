@@ -5,7 +5,7 @@
 - ⚡ I’m currently learning Golang  
 <br/>  
 
-## My Skill Set  
+## 💻My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
