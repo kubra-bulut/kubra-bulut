@@ -50,7 +50,7 @@
 </div>  
 <br/>  
 
-![](https://komarev.com/ghpvc/?username=kubra-bulut&icon=7&color=11)
+![](https://komarev.com/ghpvc/?username=kubra-bulut&icon=7&color=blueviolet)
 
 ## 📊 GitHub Stats:
 
